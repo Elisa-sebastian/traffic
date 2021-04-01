@@ -27,7 +27,7 @@
 ## Repertory Models
 To save time, we propose  our already **trained and saved models:** 
 
-* DNN : traffic_signs_2021-03-20_09-40-58.h5   ICI TU METS LE NOM DE TON MODÈLE À TOI QU'ON A UTILISÉ
+* DNN : traffic_signs_2021-03-20_09-40-32.h5
 * SVM : traffic_signs_svm.pickle 
 
 ## Repertory app
