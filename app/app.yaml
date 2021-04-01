@@ -1,0 +1,10 @@
+paths:
+    training_images: ../data/raw/GTSRB_Final_Training_Images/GTSRB/Final_Training/Images/*/*.csv
+    test_GT: ../data/raw/GTSRB_Final_Test_GT/GT-final_test.csv
+    test_images: ../data/raw/GTSRB_Final_Test_Images/GTSRB/Final_Test/Images/*.csv
+    load_model_path_DNN: ../models/traffic_signs_2021-03-20_09-32-50.h5
+    load_model_path_SVM: ../models/traffic_signs_svm.pickle
+
+parameters:
+    IMAGE_WIDTH: 30
+    IMAGE_HEIGHT: 30
