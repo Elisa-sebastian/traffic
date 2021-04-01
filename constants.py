@@ -1,4 +1,5 @@
 # Names of traffic signs classes
+
 CLASSES = {
      0: 'Speed limit (20km/h)',
      1: 'Speed limit (30km/h)',
